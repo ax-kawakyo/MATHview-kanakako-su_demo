@@ -1,0 +1,64 @@
+{
+  "problems": [
+    {
+      "id": "25su_t4-K",
+      "name": "kanakako-25su-t4",
+      "path": "entexm-math-json/25su_t4-K.json"
+    },
+    {
+      "id": "25su-all",
+      "name": "kanakako-25su-view",
+      "path": "entexm-math-json/25su-all.json"
+    },
+    {
+      "id": "24su-all",
+      "name": "kanakako-24su-view",
+      "path": "entexm-math-json/24su-all.json"
+    },
+    {
+      "id": "23su-all",
+      "name": "kanakako-23su-view",
+      "path": "entexm-math-json/23su-all.json"
+    },
+    {
+      "id": "22su-all",
+      "name": "kanakako-22su-view",
+      "path": "entexm-math-json/22su-all.json"
+    },
+    {
+      "id": "21su-all",
+      "name": "kanakako-21su-view",
+      "path": "entexm-math-json/21su-all.json"
+    },
+    {
+      "id": "20su-all",
+      "name": "kanakako-20su-view",
+      "path": "entexm-math-json/20su-all.json"
+    },
+    {
+      "id": "24su-t4-K",
+      "name": "kanakako-24su-t4",
+      "path": "entexm-math-json/24su-t4-K.json"
+    },
+    {
+      "id": "23su-t4-K",
+      "name": "kanakako-23su-t4",
+      "path": "entexm-math-json/23su-t4-K.json"
+    },
+    {
+      "id": "22su-t4-K",
+      "name": "kanakako-22su-t4",
+      "path": "entexm-math-json/22su-t4-K.json"
+    },
+    {
+      "id": "21su-t4-K",
+      "name": "kanakako-21su-t4",
+      "path": "entexm-math-json/21su-t4-K.json"
+    },
+    {
+      "id": "20su-t4-K",
+      "name": "kanakako-20su-t4",
+      "path": "entexm-math-json/20su-t4-K.json"
+    }
+  ]
+}

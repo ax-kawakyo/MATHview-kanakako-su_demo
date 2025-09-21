@@ -1,0 +1,868 @@
+[
+  {
+    "problem_id": "問1",
+    "problem_flow": [
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "次の計算をした結果として正しいものを、それぞれあとの1~4の中から1つずつ選び、その番号を答えなさい。"
+      },
+      {
+        "type": "title_block",
+        "content": "(ア)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "-4+(-11)"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "-15"
+          },
+          {
+            "label": "2",
+            "value": "-7"
+          },
+          {
+            "label": "3",
+            "value": "7"
+          },
+          {
+            "label": "4",
+            "value": "15"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(イ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "1/6 - 4/7"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "-31/42"
+          },
+          {
+            "label": "2",
+            "value": "-17/42"
+          },
+          {
+            "label": "3",
+            "value": "17/42"
+          },
+          {
+            "label": "4",
+            "value": "31/42"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(ウ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "36a²b²×6b÷8a"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "27ab²"
+          },
+          {
+            "label": "2",
+            "value": "27ab³"
+          },
+          {
+            "label": "3",
+            "value": "48ab²"
+          },
+          {
+            "label": "4",
+            "value": "48ab³"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(エ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "(2x+y)/3 - (x-3y)/5"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "(7x-14y)/15"
+          },
+          {
+            "label": "2",
+            "value": "(7x-4y)/15"
+          },
+          {
+            "label": "3",
+            "value": "(7x+4y)/15"
+          },
+          {
+            "label": "4",
+            "value": "(7x+14y)/15"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(オ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "(4+√3)(4-√3)-2(1-√3)"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "5+2√3"
+          },
+          {
+            "label": "2",
+            "value": "5+4√3"
+          },
+          {
+            "label": "3",
+            "value": "11+2√3"
+          },
+          {
+            "label": "4",
+            "value": "11+4√3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem_id": "問2",
+    "problem_flow": [
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "次の問いに対する答えとして正しいものを、それぞれあとの1~4の中から1つずつ選び、その番号を答えなさい。"
+      },
+      {
+        "type": "title_block",
+        "content": "(ア)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "(x-5)²-7(x-5)-18 を因数分解しなさい。"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "(x-14)(x-7)"
+          },
+          {
+            "label": "2",
+            "value": "(x-14)(x-3)"
+          },
+          {
+            "label": "3",
+            "value": "(x-7)(x-4)"
+          },
+          {
+            "label": "4",
+            "value": "(x-4)(x-3)"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(イ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "2次方程式5x²+7x+1=0を解きなさい。"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "x=(-7±√29)/10"
+          },
+          {
+            "label": "2",
+            "value": "x=(-7±√69)/10"
+          },
+          {
+            "label": "3",
+            "value": "x=(7±√29)/10"
+          },
+          {
+            "label": "4",
+            "value": "x=(7±√69)/10"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(ウ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "関数y=-4x²について、xの値が-5から-1まで増加するときの変化の割合を求めなさい。"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "-24"
+          },
+          {
+            "label": "2",
+            "value": "-16"
+          },
+          {
+            "label": "3",
+            "value": "16"
+          },
+          {
+            "label": "4",
+            "value": "24"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(エ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "ある工場で生産している製品Aについて、今週と先週に生産した個数を比べると、今週は先週より1割増え,今週と先週に生産した個数をあわせると567個だった。\nこのとき,この工場で今週に生産した製品Aの個数を求めなさい。"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "270個"
+          },
+          {
+            "label": "2",
+            "value": "283個"
+          },
+          {
+            "label": "3",
+            "value": "284個"
+          },
+          {
+            "label": "4",
+            "value": "297個"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(オ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "4<√n<5をみたす自然数nのうち,√2n が整数となるようなnの値を求めなさい。"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "n=12"
+          },
+          {
+            "label": "2",
+            "value": "n=18"
+          },
+          {
+            "label": "3",
+            "value": "n=24"
+          },
+          {
+            "label": "4",
+            "value": "n=32"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(カ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "右の図において、四角形ABCD は AD // BC, ∠BCD=90°の台形であり, 2点C,Dは直線ℓ上の点である。\nAD=2cm, BC=CD=3cm のとき,この台形を、直線ℓを軸として1回転させてできる立体の体積を求めなさい。ただし、円周率はπ とする。"
+      },
+      {
+        "type": "image_gallery",
+        "paths": [
+          "entexm-math-images/25q2_f_diagram.png"
+        ]
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "13 π cm³"
+          },
+          {
+            "label": "2",
+            "value": "15 π cm³"
+          },
+          {
+            "label": "3",
+            "value": "19 π cm³"
+          },
+          {
+            "label": "4",
+            "value": "25 π cm³"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "problem_id": "問3",
+    "problem_flow": [
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "次の問いに答えなさい。"
+      },
+      {
+        "type": "title_block",
+        "content": "(ア)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "右の図1のように、線分ABを直径とする円Oの周上に、2点A,Bとは異なる点Cを,AC > BC となるようにとる。また、円Oの周上に点Dを,∠CADが鈍角となるようにとり、線分ABと線分CDとの交点をEとする。さらに、線分CBの延長上に点Fを,CF=DFとなるようにとり、線分DFと円Oとの交点をG, 線分AGと線分BDとの交点をHとする。\nこのとき,次の(i), (ii)に答えなさい。"
+      },
+      {
+        "type": "image_gallery",
+        "paths": [
+          "entexm-math-images/25q3_a_fig1.png"
+        ]
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "(i) 三角形ACEと三角形AGD が相似であることを次のように証明した。(a), (b) に最も適するものを、それぞれ選択肢の1~4の中から1つずつ選び、その番号を答えなさい。"
+      },
+      {
+        "type": "text_block",
+        "class": "muted",
+        "content": "[証明]\n△ACEと△AGDにおいて,\nまず、ADに対する円周角は等しいから、\n∠ACD=∠AGD\nよって、∠ACE=∠AGD ......①\n次に、BDに対する円周角は等しいから、\n［　(a)　］ ......②\nまた,CF=DFより, △FCD は二等辺三角形であり、その2つの底角は等しいから、\n∠FCD=∠FDC\nよって、∠BCD=∠CDG ......③\nさらに、CGに対する円周角は等しいから、\n［　(b)　］ ......④\n②, ③, ④より、\n∠CAB=∠CAG-∠BAG\n=∠BAD-∠BAG ......⑤\n∠GAD=∠BAD-∠BAG ......⑥\n⑤,⑥より、∠CAB=∠GAD\nよって,∠CAE=∠GAD ......⑦\n①,⑦より、2組の角がそれぞれ等しいから、\n△ACE∽△AGD"
+      },
+      {
+        "type": "options_block",
+        "title": "(a)の選択肢",
+        "options": [
+          {
+            "label": "1",
+            "value": "∠ABC=∠ADC"
+          },
+          {
+            "label": "2",
+            "value": "∠AED=∠BEC"
+          },
+          {
+            "label": "3",
+            "value": "∠BAC=∠BDC"
+          },
+          {
+            "label": "4",
+            "value": "∠BAD=∠BCD"
+          }
+        ]
+      },
+      {
+        "type": "options_block",
+        "title": "(b)の選択肢",
+        "options": [
+          {
+            "label": "1",
+            "value": "∠AHD=∠BHG"
+          },
+          {
+            "label": "2",
+            "value": "∠BAG=∠BDG"
+          },
+          {
+            "label": "3",
+            "value": "∠CAG=∠CDG"
+          },
+          {
+            "label": "4",
+            "value": "∠DAG=∠DBG"
+          }
+        ]
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "(ii) 次の□の中の「あ」「い」「う」にあてはまる数字をそれぞれ0~9の中から1つずつ選び、その数字を答えなさい。"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "BC=4cm, BG=FG=2cm のとき,三角形ADHの面積は [あ]√[い]/[う] cm²である。"
+      },
+      {
+        "type": "title_block",
+        "content": "(イ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "ある中学校で毎年開催されている縄跳び大会は、生徒ひとりひとりが1分間に縄跳びを何回跳べるかに挑み、跳んだ回数を競うものである。参加した3年生のAさん,2年生のBさん,1年生のCさんは,この大会の実行委員であり,今年の大会の結果について振り返っている。次の会話文はそのときのものである。\nまた、図2は、参加した生徒それぞれの、今年の大会で跳んだ回数を調べ、学年ごとに箱ひげ図に表したものであり、学年ごとの参加人数は、3年生が100人,2年生が110人,1年生が120人だった。"
+      },
+      {
+        "type": "image_gallery",
+        "paths": [
+          "entexm-math-images/25q3_i_fig2.png"
+        ]
+      },
+      {
+        "type": "text_block",
+        "class": "muted",
+        "content": "会話文\nAさん 「縄跳び大会の結果が出ましたね。私は学年で21位でした。3年間で記録を伸ばすことができたので,本当にうれしいです。」\nBさん 「よかったですね。私は学年で28位でした。練習のときよりも多く跳べたので満足しています。Cさんはどうでしたか。」\nCさん 「私は学年で5位で,目標にしていた100回を超えることができました。ただ、1年生だけでなく2年生,3年生も含めると,48人の生徒が私より多く跳んでいたそうなので、さらに多く跳べるように頑張りたいと思いました。」\nAさん 「Cさんの意欲はすごいですね。ちなみに、私と同じ回数だった生徒は校内に誰もいなかったそうです。」\nBさん 「そうなんですね。2年生の中には、私より1回多く跳び、学年で23位だった生徒が5人いましたよ。」\nCさん 「そんなこともあるんですね。来年はどうなるでしょうか。早くも来年の大会が楽しみになってきました。来年は運営にももっと積極的に関わっていきたいです。」\nAさん 「来年の大会をよりよくしていくためにできることを一緒に考えていきましょう。」"
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "このとき, Aさん, Bさん, Cさんを, 跳んだ回数が多い順に左から並べたものとして最も適するものを1~6の中から1つ選び、その番号を答えなさい。"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "Aさん, Bさん, Cさん"
+          },
+          {
+            "label": "2",
+            "value": "Aさん, Cさん, Bさん"
+          },
+          {
+            "label": "3",
+            "value": "Bさん, Aさん, Cさん"
+          },
+          {
+            "label": "4",
+            "value": "Bさん, Cさん, Aさん"
+          },
+          {
+            "label": "5",
+            "value": "Cさん, Aさん, Bさん"
+          },
+          {
+            "label": "6",
+            "value": "Cさん, Bさん, Aさん"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(ウ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "右の図3のような幅が一定の白いテープと,下の図4のような横の長さが縦の長さの2倍である長方形の色画用紙がある。長方形の色画用紙に,このテープを途中で曲がらないようにして3か所に貼り,色画用紙の縁に沿ってテープを切ったところ,下の図5のようになった。図5において,色画用紙のうち,テープを貼っていない部分の面積は480 cm² だった。"
+      },
+      {
+        "type": "image_gallery",
+        "paths": [
+          "entexm-math-images/25q3_u_fig3.png",
+          "entexm-math-images/25q3_u_fig4.png",
+          "entexm-math-images/25q3_u_fig5.png"
+        ]
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "Kさんは、この色画用紙の横の長さを次のように求めた。(i),(ii)にあてはまるものとして最も適するものを、それぞれの選択肢の中から1つずつ選び、その番号を答えなさい。"
+      },
+      {
+        "type": "text_block",
+        "class": "muted",
+        "content": "求め方\n色画用紙の縦の長さをxcmとして方程式をつくると、[　(i)　] = 480 となる。\nこの方程式を解き,解が問題に適しているかどうかを確かめることで,色画用紙の縦の長さを求めることができる。\n色画用紙の横の長さは縦の長さの2倍であるから,色画用紙の横の長さは [　(ii)　] cmである。"
+      },
+      {
+        "type": "options_block",
+        "title": "(i)の選択肢",
+        "options": [
+          {
+            "label": "1",
+            "value": "x²-6x-7"
+          },
+          {
+            "label": "2",
+            "value": "x²-6x+24"
+          },
+          {
+            "label": "3",
+            "value": "2x²-12x-14"
+          },
+          {
+            "label": "4",
+            "value": "2x²-12x+48"
+          },
+          {
+            "label": "5",
+            "value": "2x²-8x+38"
+          },
+          {
+            "label": "6",
+            "value": "2x²-8x+96"
+          }
+        ]
+      },
+      {
+        "type": "options_block",
+        "title": "(ii)の選択肢",
+        "options": [
+          {
+            "label": "1",
+            "value": "32"
+          },
+          {
+            "label": "2",
+            "value": "34"
+          },
+          {
+            "label": "3",
+            "value": "36"
+          },
+          {
+            "label": "4",
+            "value": "38"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(エ)"
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "次の□の中の「え」「お」にあてはまる数字をそれぞれ0~9の中から1つずつ選び、その数字を答えなさい。"
+      },
+      {
+        "type": "image_gallery",
+        "paths": [
+          "entexm-math-images/25q3_e_fig6.png"
+        ]
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "右の図6において,四角形ABCD は正方形であり,三角形ADEは∠ADE=27°, ∠AED=90°の直角三角形である。\nまた、点Fは線分DE上の点で、AE//BFであり,点Gは線分ACと線分BFとの交点である。\nこのとき, ∠CGD = [えお]°である。"
+      }
+    ]
+  },
+  {
+    "problem_id": "問4",
+    "problem_flow": [
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "右の図において,直線①は関数y=-xのグラフであり,曲線②は関数y=ax²のグラフ,曲線③は関数y=4/xのグラフである。\n点Aは直線①と曲線②との交点で,そのx座標は-8である。点Bは曲線②上の点で、線分ABはx軸に平行である。点Cは線分AB上の点で,AC:CB=1:3である。\nまた、点Dは曲線③上の点で、線分BDはy軸に平行である。点Eは曲線③上の点で、そのx座標は-6である。\nさらに、原点をOとするとき,点Fは直線①上の点で、AO:OF=4:3であり,そのx座標は正である。\nこのとき、次の問いに答えなさい。"
+      },
+      {
+        "type": "image_gallery",
+        "paths": [
+          "entexm-math-images/25q4_graph.png"
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(ア)"
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "曲線②の式y=ax²のaの値として正しいものを次の1~6の中から1つ選び、その番号を答えなさい。"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "a=1/8"
+          },
+          {
+            "label": "2",
+            "value": "a=1/6"
+          },
+          {
+            "label": "3",
+            "value": "a=1/4"
+          },
+          {
+            "label": "4",
+            "value": "a=3/8"
+          },
+          {
+            "label": "5",
+            "value": "a=1/2"
+          },
+          {
+            "label": "6",
+            "value": "a=3/4"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(イ)"
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "直線EFの式をy=mx+n とするときの(i) m の値と,(ii) n の値として正しいものを,それぞれ次の1~6の中から1つずつ選び、その番号を答えなさい。"
+      },
+      {
+        "type": "options_block",
+        "title": "(i) mの値",
+        "options": [
+          {
+            "label": "1",
+            "value": "m=-4/3"
+          },
+          {
+            "label": "2",
+            "value": "m=-7/6"
+          },
+          {
+            "label": "3",
+            "value": "m=-8/9"
+          },
+          {
+            "label": "4",
+            "value": "m=-5/6"
+          },
+          {
+            "label": "5",
+            "value": "m=-2/3"
+          },
+          {
+            "label": "6",
+            "value": "m=-4/9"
+          }
+        ]
+      },
+      {
+        "type": "options_block",
+        "title": "(ii) nの値",
+        "options": [
+          {
+            "label": "1",
+            "value": "n=-16/3"
+          },
+          {
+            "label": "2",
+            "value": "n=-9/2"
+          },
+          {
+            "label": "3",
+            "value": "n=-4"
+          },
+          {
+            "label": "4",
+            "value": "n=-7/2"
+          },
+          {
+            "label": "5",
+            "value": "n=-10/3"
+          },
+          {
+            "label": "6",
+            "value": "n=-3"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(ウ)"
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "次の□の中の「か」「き」「く」「け」にあてはまる数字をそれぞれ0~9の中から1つずつ選び、その数字を答えなさい。"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "線分CD上に点Gを,CG=GD となるようにとる。このときの,三角形COGと三角形 DGF の面積の比を最も簡単な整数の比で表すと, △COG:△DGF= [かき]:[くけ] である。"
+      }
+    ]
+  },
+  {
+    "problem_id": "問5",
+    "problem_flow": [
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "右の図1のように,30gのおもりが8個,50gのおもりが7個,80gのおもりが1個ある。\n大,小2つのさいころを同時に1回投げ、大きいさいころの出た目の数をa, 小さいさいころの出た目の数をbとする。\nさいころの出た目の数によって,KさんとLさんは,次の【ルール】にしたがってこれらのおもりを取り分ける。それぞれが取ったおもりをすべてはかりにのせ、計測した重さについて考える。\nただし,大,小2つのさいころはともに,1から6までのどの目が出ることも同様に確からしいものとする。"
+      },
+      {
+        "type": "image_gallery",
+        "images": [
+          {
+            "path": "entexm-math-images/25q5_fig1.png",
+            "width": 80,
+            "caption": "図1"
+          }
+        ]
+      },
+      {
+        "type": "text_block",
+        "class": "muted",
+        "content": "【ルール】\nまず、Kさんは30gのおもりをa個と50gのおもりをb個取り,Lさんは残った30gのおもりと50gのおもりをすべて取る。\n次に、KさんとLさんのうち, 30gのおもりと50gのおもりを合わせた個数の少ない方が80gのおもりを取る。"
+      },
+      {
+        "type": "text_block",
+        "class": "muted",
+        "content": "例\n大きいさいころの出た目の数が5,小さいさいころの出た目の数が2のとき,a=5, b=2である。【ルール】により,まず,Kさんは30gのおもりを5個,50gのおもりを2個取り,Lさんは残った30gのおもりと50gのおもりをすべて取るので,30gのおもりを3個,50gのおもりを5個取る。次に,30gのおもりと50gのおもりを合わせた個数は,Kさんが7個,Lさんが8個なので、合わせた個数の少ないKさんが80gのおもりを取る。それぞれが取ったおもりをすべてはかりにのせると図2のようになり、Kさんの計測した重さは 330g, Lさんの計測した重さは340gとなる。"
+      },
+      {
+        "type": "image_gallery",
+        "images": [
+          {
+            "path": "entexm-math-images/25q5_fig2.png",
+            "width": 80,
+            "caption": "図2"
+          }
+        ]
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "いま、図1の状態で,大,小2つのさいころを同時に1回投げるとき,次の問いに答えなさい。"
+      },
+      {
+        "type": "title_block",
+        "content": "(ア)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "Kさんの計測した重さが200g未満となる確率は [こ]/[さし] である。\n□の中の「こ」「さ」「し」にあてはまる数字をそれぞれ0~9の中から1つずつ選び、その数字を答えなさい。"
+      },
+      {
+        "type": "title_block",
+        "content": "(イ)"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "Kさんの計測した重さがLさんの計測した重さより重くなる確率は [すせ]/[そた] である。\n□の中の「す」「せ」「そ」「た」にあてはまる数字をそれぞれ0~9の中から1つずつ選び、その数字を答えなさい。"
+      }
+    ]
+  },
+  {
+    "problem_id": "問6",
+    "problem_flow": [
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "右の図は,AB=BC=13cm, AC= 10 cm の二等辺三角形ABC を底面とし,AD=BE=CF=18 cm を高さとする三角柱である。\nまた、点Gは辺BE上の点で,BG:GE=8:1であり,点Hは辺BEの中点である。\nこのとき、次の問いに答えなさい。"
+      },
+      {
+        "type": "image_gallery",
+        "paths": [
+          "entexm-math-images/25q6_prism.png"
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(ア)"
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "この三角柱の表面積として正しいものを次の1~6の中から1つ選び、その番号を答えなさい。"
+      },
+      {
+        "type": "options_block",
+        "options": [
+          {
+            "label": "1",
+            "value": "468 cm²"
+          },
+          {
+            "label": "2",
+            "value": "478 cm²"
+          },
+          {
+            "label": "3",
+            "value": "648 cm²"
+          },
+          {
+            "label": "4",
+            "value": "658 cm²"
+          },
+          {
+            "label": "5",
+            "value": "768 cm²"
+          },
+          {
+            "label": "6",
+            "value": "778 cm²"
+          }
+        ]
+      },
+      {
+        "type": "title_block",
+        "content": "(イ)"
+      },
+      {
+        "type": "text_block",
+        "class": "statement",
+        "content": "次の□の中の「ち」「つ」「て」にあてはまる数字をそれぞれ0~9の中から1つずつ選び、その数字を答えなさい。"
+      },
+      {
+        "type": "text_block",
+        "class": "normal",
+        "content": "この三角柱において、図のように、点Gから3点D, F, Hを通る平面に引いた垂線と,3点D, F, Hを通る平面との交点をIとする。このときの、線分GIの長さは [ちつ]/[て] cmである。"
+      }
+    ]
+  }
+]
